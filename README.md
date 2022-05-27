@@ -1,4 +1,4 @@
-# Song Recommendation
+# Song Recommendation Engine
 
 
 To get started, clone this repo and run the following to install the required packages:
