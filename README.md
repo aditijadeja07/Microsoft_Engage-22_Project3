@@ -6,8 +6,8 @@
 ``pip install -r requirements.txt``
 
 2) You should have the following dataset in 'data' folder :
-spotify_artist
-spotify_albums
+spotify_artist |
+spotify_albums |
 spotift_tracks
 
 link to dataset from kaggle
